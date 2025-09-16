@@ -25,7 +25,7 @@ Your TA will share a different URL for you to fork from, so that you
 can make pull requests to that repo during Task 3 of the lab.
 If you miss the lab and work on this after, you can use this URL though.
 
-- [ ] Make a fork of this repo and clone a local copy (as you did in Lab 1).
+- [X] Make a fork of this repo and clone a local copy (as you did in Lab 1).
 
 >**Important**: make sure to uncheck the option to only fork the main branch, as the repo
 > contains two branches you will use later in this lab.
@@ -67,13 +67,13 @@ You should now see the changes that you made are now in the `main` branch.
 
 ---
 
-- [ ] Now, we'll want to clean up since we are done with our `task_1` branch.
+- [X] Now, we'll want to clean up since we are done with our `task_1` branch.
   - IntelliJ: `Git -> branches... -> task_1 -> Delete`
   - Terminal: `git branch -d task_1`
 
 ---
 
-- [ ] Last step! We'll push our changes to the remote repository to share our work! (As we did in Lab 1.)
+- [X] Last step! We'll push our changes to the remote repository to share our work! (As we did in Lab 1.)
   - we suggest you check off this last item, commit that change, and then push your code.
     Check GitHub to ensure you can see your changes.
 
